@@ -1,2 +1,25 @@
-# PyQtPractise
-A greenhand's Startup in PyQt
+# PyQt尝鲜记
+一个新手小白的PyQt之旅
+
+
+
+开发环境
+
+```
+系统版本：	   Windows10 1903
+Python版本:	 3.7.6
+PyQt版本：   	5.14.1
+PyQt Sip版本： 12.7.1
+PyCharm版本：  2019.3
+```
+
+
+
+每个练习主要侧重的部分对应如下：
+
+|      主题      | 工程名 |
+| :------------: | :----: |
+| UI设计以及打包 | Test1  |
+|                |        |
+|                |        |
+

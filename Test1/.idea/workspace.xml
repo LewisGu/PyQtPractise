@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="256d081f-9900-49e2-a0f9-83b94c6b11b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XMtJFGMk0qYlUyR5ri6Ja0MC28" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda3/envs/PyPackage" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Ddisk\CodeRun\Python\PyQt\test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.pyinstall-singlefile">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baidudisk_tool" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidudisk_tool.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyinstall-singlefile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyinstall-singlefile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pyinstaller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyinstaller.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.pyinstall-singlefile" />
+        <item itemvalue="Python.pyinstaller" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.baidudisk_tool" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="256d081f-9900-49e2-a0f9-83b94c6b11b0" name="Default Changelist" comment="" />
+      <created>1580867717096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580867717096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="651" y="230" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1580872724327">
+      <screen x="62" y="0" width="1618" height="1050" />
+    </state>
+    <state x="651" y="230" key="#com.intellij.ide.macro.MacrosDialog/62.0.1618.1050@62.0.1618.1050" timestamp="1580872724327" />
+    <state x="601" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580874468126">
+      <screen x="62" y="0" width="1618" height="1050" />
+    </state>
+    <state x="601" y="272" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.1618.1050@62.0.1618.1050" timestamp="1580874468126" />
+    <state x="634" y="354" width="474" height="487" key="#com.intellij.tools.ToolEditorDialog" timestamp="1580873648923">
+      <screen x="62" y="0" width="1618" height="1050" />
+    </state>
+    <state x="634" y="354" width="474" height="487" key="#com.intellij.tools.ToolEditorDialog/62.0.1618.1050@62.0.1618.1050" timestamp="1580873648923" />
+    <state x="651" y="280" key="FileChooserDialogImpl" timestamp="1580877657858">
+      <screen x="62" y="0" width="1618" height="1050" />
+    </state>
+    <state x="651" y="280" key="FileChooserDialogImpl/62.0.1618.1050@62.0.1618.1050" timestamp="1580877657858" />
+    <state width="1284" height="278" key="GridCell.Tab.0.bottom" timestamp="1580880380874">
+      <screen x="62" y="0" width="1618" height="1050" />
+    </state>
+    <state width="1284" height="278" key="GridCell.Tab.0.bottom/62.0.1618.1050@62.0.1618.1050" timestamp="1580880380874" />
+    <state width="1284" height="278" key="GridCell.Tab.0.center" timestamp="1580880380874">
+      <screen x="62" y="0" width="1618" height="1050" />
+    </state>
+    <state width="1284" height="278" key="GridCell.Tab.0.center/62.0.1618.1050@62.0.1618.1050" timestamp="1580880380874" />
+    <state width="1284" height="278" key="GridCell.Tab.0.left" timestamp="1580880380874">
+      <screen x="62" y="0" width="1618" height="1050" />
+    </state>
+    <state width="1284" height="278" key="GridCell.Tab.0.left/62.0.1618.1050@62.0.1618.1050" timestamp="1580880380874" />
+    <state width="1284" height="278" key="GridCell.Tab.0.right" timestamp="1580880380874">
+      <screen x="62" y="0" width="1618" height="1050" />
+    </state>
+    <state width="1284" height="278" key="GridCell.Tab.0.right/62.0.1618.1050@62.0.1618.1050" timestamp="1580880380874" />
+    <state x="372" y="167" key="SettingsEditor" timestamp="1580878593546">
+      <screen x="62" y="0" width="1618" height="1050" />
+    </state>
+    <state x="372" y="167" key="SettingsEditor/62.0.1618.1050@62.0.1618.1050" timestamp="1580878593546" />
+    <state x="551" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1580872020061">
+      <screen x="62" y="0" width="1618" height="1050" />
+    </state>
+    <state x="551" y="349" key="com.intellij.ide.util.TipDialog/62.0.1618.1050@62.0.1618.1050" timestamp="1580872020061" />
+  </component>
+</project>
